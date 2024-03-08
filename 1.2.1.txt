@@ -1,0 +1,12 @@
+void climbTheStairs() //1.2.1
+{
+    moveForward();
+    repeat(6)
+    {
+        turnLeft();
+        moveForward();
+        turnRight();
+        moveForward();
+    }
+
+}

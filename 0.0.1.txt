@@ -1,0 +1,13 @@
+void karelsFirstProgram() //0.0.1
+{
+    moveForward();
+    pickBeeper();
+    moveForward();
+    turnLeft();
+    moveForward();
+    turnRight();
+    moveForward();
+    dropBeeper();
+    moveForward();
+
+}

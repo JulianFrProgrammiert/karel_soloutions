@@ -1,0 +1,17 @@
+void goingForward9()
+{
+    repeat (9)
+    {
+        moveForward();
+    }
+}
+
+void defuseOneBomb() //1.1.2
+{
+    goingForward9();
+    pickBeeper();
+    turnAround();
+    goingForward9();
+    turnAround();
+
+}

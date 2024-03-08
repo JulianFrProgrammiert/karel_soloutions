@@ -1,0 +1,9 @@
+void practiceHomeRun() //1.1.4
+{
+    repeat(4)
+    {
+        goingForward9();
+        pickBeeper();
+        turnLeft();
+    }
+}

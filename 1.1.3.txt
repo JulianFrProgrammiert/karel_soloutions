@@ -1,0 +1,6 @@
+void defuseTwoBombs() //1.1.3
+{
+    defuseOneBomb();
+    turnLeft();
+    defuseOneBomb();
+}
